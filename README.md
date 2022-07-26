@@ -1,2 +1,2 @@
 # oop-quiz
-quiz for practice OOP concepts
+quiz for practicing OOP concepts
